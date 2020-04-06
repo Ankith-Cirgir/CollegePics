@@ -8,4 +8,6 @@ Here is how to run it on Windows:
 \collector> collector.exe
 ```
 3. from there u just have to enter the required Rollnumber and the image will be stored in the same directory as collector.
-### BY: ![alt text](https://github.com/Ankith-Cirgir/CollegePics/blob/master/clumsylogo.png "ClumsyRat")
+_**Screenshots:**_
+![alt Screenshot](https://github.com/Ankith-Cirgir/CollegePics/blob/master/Screenshots/Capture.PNG "ScreenShot")
+### BY: ![alt ClumsyRat](https://github.com/Ankith-Cirgir/CollegePics/blob/master/clumsylogo.png "ClumsyRat")
