@@ -12,3 +12,9 @@ _**Screenshots:**_
 ![alt Screenshot](https://github.com/Ankith-Cirgir/CollegePics/blob/master/Screenshots/Capture.PNG "ScreenShot")
 ![alt Screenshot](https://github.com/Ankith-Cirgir/CollegePics/blob/master/Screenshots/Capture2.PNG "ScreenShot")
 ### BY: ![alt ClumsyRat](https://github.com/Ankith-Cirgir/CollegePics/blob/master/clumsylogo.png "ClumsyRat")
+# FeedBack:
+feel free to open an issue...
+```
+                                            Instagram: "_ankith.__"
+                                        Gmail: dimpuankith@outlook.com
+```
